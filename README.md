@@ -6,15 +6,6 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=suxinghang&show_icons=true&theme=radical)
 
-<div align="center">
-  <img height=200px src="https://avatars.githubusercontent.com/u/62157770?v=4"></br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
-  </picture></br>
-</div>
-
 
 # Visitor Count
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/suxinghang/count.svg)](https://github.com/suxinghang) visitor, Thank You!🎉🎉
