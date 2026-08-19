@@ -54,7 +54,7 @@
 <div align="center">
 
 <a href="https://github.com/lowlighter/metrics">
-  <img src="https://raw.githubusercontent.com/suxinghang/suxinghang/master/github-metrics.svg" alt="GitHub activity skyline" />
+  <img src="https://raw.githubusercontent.com/suxinghang/suxinghang/output/github-metrics.svg" alt="GitHub activity skyline" />
 </a>
 
 </div>
