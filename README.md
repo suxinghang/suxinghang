@@ -1,88 +1,78 @@
-<link rel="stylesheet" type="text/css" href="./beautiful.css">
-
-<h1 align='center'> hello 👋, I am suxinghang!</h1>
-
-I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
-
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=suxinghang&show_icons=true&theme=radical)
-
-
-# Visitor Count
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/suxinghang/count.svg)](https://github.com/suxinghang) visitor, Thank You!🎉🎉
-
-
-# Top Language
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suxinghang&theme=flag-india)](https://github.com/suxinghang/github-readme-stats) -->
-
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suxinghang&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=suxinghang&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
-
-<!--
-<table border="0">
-<tr>
-<td valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" alt="Top Langs" height="160" />
-</td>
-<td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true" alt="all-smile's GitHub stats" height="160" />
-</td>
-</tr>
-</table>
--->
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suxinghang&layout=compact)
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=suxinghang&show_icons=true)
--->
-
-### My Skill Set
-<table><tr><td valign="top" width="33%">
-
-#### Frontend
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+
+# `suxinghang`'s coding dashboard
+
+<sub>small commits · curious experiments · one contribution at a time</sub>
+
+<br />
+<br />
+
+![Profile views](https://komarev.com/ghpvc/?username=suxinghang&style=flat-square&color=7c3aed&label=profile+views)
+
 </div>
 
-</td>
-<td valign="top" width="33%">
+<br />
 
-#### Backend
+## ☕ Today at the keyboard
+
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
+
+<a href="https://github.com/suxinghang?tab=overview">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=suxinghang&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=GitHub%20activity&bg_color=0d1117&title_color=8b5cf6&icon_color=22d3ee&text_color=c9d1d9" alt="GitHub activity" />
+</a>
+<a href="https://github.com/suxinghang?tab=repositories">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suxinghang&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" alt="Top languages" />
+</a>
+
 </div>
 
-</td>
-<td valign="top" width="33%">
+<br />
 
-#### DevOps
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
+
+<a href="https://github.com/suxinghang">
+  <img src="https://streak-stats.demolab.com?user=suxinghang&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=22D3EE" alt="Contribution streak" />
+</a>
+
 </div>
-</td>
-</tr>
-</table>
 
+## 🐍 Contribution garden
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);keep real, keep cool!&center=true&size=27"> </a> </h1>
+<div align="center">
+
+<!-- Generated by Platane/snk. Add a GitHub Action later for an automatically refreshed animation. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suxinghang/suxinghang/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suxinghang/suxinghang/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating contribution squares" src="https://raw.githubusercontent.com/suxinghang/suxinghang/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+## 🏙️ Activity skyline
+
+<div align="center">
+
+<a href="https://github.com/lowlighter/metrics">
+  <img src="https://raw.githubusercontent.com/suxinghang/suxinghang/master/github-metrics.svg" alt="GitHub activity skyline" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<a href="https://github.com/suxinghang">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suxinghang&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=22d3ee&area=true&hide_border=true" alt="Recent GitHub activity" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<sub>made with markdown, caffeine, and a suspicious number of tabs open</sub>
+
+</div>
