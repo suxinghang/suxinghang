@@ -1,55 +1,53 @@
 <div align="center">
 
-# `suxinghang`'s coding dashboard
-
-<sub>small commits · curious experiments · one contribution at a time</sub>
+<img src="./assets/tokyo-hud.svg" alt="Tokyo night shift player dashboard" />
 
 <br />
-<br />
 
-![Profile views](https://komarev.com/ghpvc/?username=suxinghang&style=flat-square&color=7c3aed&label=profile+views)
+<sub>駅は終わっても、コードは終わらない。<br />The city sleeps. The commits don't.</sub>
 
+</div>
+
+## 🎮 Daily quest board
+
+<div align="center">
+<img src="./assets/quest-board.svg" alt="Daily coding quests" />
+</div>
+
+> Make something slightly less broken than yesterday.
+
+## 🚇 Tokyo repository line
+
+<div align="center">
+<img src="./assets/metro-map.svg" alt="Tokyo repository metro map" />
+</div>
+
+> NEXT STATION: BETTER VERSION · TRANSFER AT: REFACTORING
+
+## 👾 Contribution arcade
+
+<div align="center">
+<img src="./assets/contribution-snake.svg" alt="Contribution arcade snake" />
+</div>
+
+> One more commit before the last train.
+
+## ⚔️ Boss battle
+
+<div align="center">
+<img src="./assets/boss-battle.svg" alt="Current coding boss battle" />
+</div>
+
+> BOSS PHASE 2: Why does this work on my machine?
+
+## 🎰 Today's drop
+
+<div align="center">
+<img src="./assets/gacha-drop.svg" alt="Today's coding gacha drop" />
 </div>
 
 <br />
 
-## ☕ Today at the keyboard
-
 <div align="center">
-
-<img height="165" src="./assets/github-activity.svg" alt="GitHub activity" />
-<img height="165" src="./assets/top-languages.svg" alt="Top languages" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="./assets/streak.svg" alt="Contribution streak" />
-
-</div>
-
-## 🐍 Contribution garden
-
-<div align="center">
-
-<img src="./assets/contribution-snake.svg" alt="A snake eating contribution squares" />
-
-</div>
-
-## 🏙️ Activity skyline
-
-<div align="center">
-
-<img src="./assets/activity-skyline.svg" alt="GitHub activity skyline" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<sub>made with markdown, caffeine, and a suspicious number of tabs open</sub>
-
+<sub>Built between the last train and the next idea.<br />眠い。でも、あと一個だけ。</sub>
 </div>
