@@ -26,6 +26,7 @@ jobs:
           build_dir: dist
         env:
           GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          PUBLISH_BRANCH: output
 
   metrics:
     name: Generate activity skyline
