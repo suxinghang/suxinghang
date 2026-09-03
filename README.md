@@ -7,7 +7,7 @@
 <!-- 打字动画 -->
 <!-- 在线编辑器：https://readme-typing-svg.demolab.com/demo/ -->
 <!-- Each line is separated by ; -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Hi%2C+I'm+xingkongmix;Developer+%26+Builder;Keep+real%2C+keep+cool%21)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Hi%2C+I'm+xingkongmix;Developer+%26+Builder;Keep+real%2C+keep+cool%21)](https://git.io/typing-svg)
 
 <!-- 社交媒体徽章 -->
 <!-- Public contact links -->
