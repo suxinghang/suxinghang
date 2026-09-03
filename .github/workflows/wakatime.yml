@@ -31,3 +31,16 @@ jobs:
           # Free accounts may not have a custom public username.
           # "current" resolves the account from WAKATIME_API_KEY.
           plugin_wakatime_user: current
+
+      - name: ✨ Style WakaTime labels
+        shell: bash
+        run: |
+          perl -0pi -e 's/WakaTime \(over last week\)/⚡ CODE SIGNAL \/\/ LAST 7 DAYS/g; s/(~[0-9.]+) coding hours recorded/$1 hours logged in the matrix/g; s/(~[0-9.]+) hours of coding per day/$1 hours\/day in the flow/g' wakatime.svg
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add wakatime.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Style WakaTime labels [skip ci]"
+            git push
+          fi
