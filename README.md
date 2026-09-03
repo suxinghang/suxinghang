@@ -7,13 +7,7 @@
 ## GitHub Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/suxinghang/suxinghang/output/metrics.isocalendar.svg" alt="Isometric commit calendar" width="400" />
-  <img src="https://raw.githubusercontent.com/suxinghang/suxinghang/output/metrics.languages.svg" alt="Languages activity" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/suxinghang/suxinghang/output/metrics.stargazers.worldmap.svg" alt="Stargazers worldmap" width="400" />
-  <img src="https://raw.githubusercontent.com/suxinghang/suxinghang/output/metrics.calendar.svg" alt="Commit calendar" width="400" />
+  <img src="https://raw.githubusercontent.com/suxinghang/suxinghang/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
 
 ## Skills

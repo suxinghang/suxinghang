@@ -17,55 +17,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Isometric commit calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: dist/metrics.isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: ${{ github.repository_owner }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          output_action: none
-
-      - name: Languages activity
-        uses: lowlighter/metrics@latest
-        with:
-          filename: dist/metrics.languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: ${{ github.repository_owner }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 6
-          output_action: none
-
-      - name: Stargazers worldmap
-        uses: lowlighter/metrics@latest
-        with:
-          filename: dist/metrics.stargazers.worldmap.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: ${{ github.repository_owner }}
-          base: ""
-          plugin_stargazers: yes
-          plugin_stargazers_charts: no
-          plugin_stargazers_worldmap: yes
-          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
-          plugin_stargazers_worldmap_sample: 200
-          output_action: none
-
-      - name: Commit calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: dist/metrics.calendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: ${{ github.repository_owner }}
-          base: ""
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
-          output_action: none
-
-      - uses: crazy-max/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
