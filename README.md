@@ -106,7 +106,7 @@ const developer = {
   </a>
 </p>
 
-**If you find this helpful, please Star!**
+**Stay curious. Ship boldly. Leave a ⭐ if you vibe with it.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=100&section=footer"/>
 
