@@ -98,12 +98,6 @@
 
 ---
 
-### 🛸 WakaTime
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/suxinghang/suxinghang/main/wakatime.svg" alt="WakaTime coding activity" width="100%" />
-</div>
-
 ### My Philosophy
 
 <div align="center">
