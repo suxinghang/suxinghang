@@ -86,16 +86,6 @@ const developer = {
   </picture>
 </div>
 
----
-
-### GitHub Metrics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/suxinghang/suxinghang/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</div>
-
----
-
 ### My Philosophy
 
 <div align="center">
