@@ -28,5 +28,6 @@ jobs:
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, languages
           plugin_wakatime_url: https://wakatime.com
-          # Change this if your WakaTime username is different from suxinghang.
-          plugin_wakatime_user: suxinghang
+          # Free accounts may not have a custom public username.
+          # "current" resolves the account from WAKATIME_API_KEY.
+          plugin_wakatime_user: current
