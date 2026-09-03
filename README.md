@@ -37,14 +37,6 @@
 
 </div>
 
-### About Me
-
-> **Code explorer · Product builder · Always shipping**
-
-I'm **xingkongmix** — a cross-stack developer turning sparks of curiosity into software that feels sharp, useful, and alive. I move between mobile experiences, modern frontends, and dependable backends, chasing the sweet spot where clean engineering meets creative ideas. Build boldly, learn constantly, and ship something better than yesterday.
-
----
-
 ### ⚡ Tech Stack
 
 <p align="center">

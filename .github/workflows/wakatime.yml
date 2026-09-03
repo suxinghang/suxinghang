@@ -12,12 +12,15 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - uses: lowlighter/metrics@latest
         with:
           filename: wakatime.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          output_action: commit
-          committer_branch: main
+          output_action: none
 
           user: suxinghang
           base: ""
@@ -41,6 +44,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add wakatime.svg
           if ! git diff --cached --quiet; then
-            git commit -m "Style WakaTime labels [skip ci]"
-            git push
+            git commit -m "Update WakaTime activity [skip ci]"
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
