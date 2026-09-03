@@ -9,13 +9,31 @@
 <!-- Each line is separated by ; -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Hi%2C+I'm+xingkongmix;Developer+%26+Builder;Keep+real%2C+keep+cool%21)](https://git.io/typing-svg)
 
-<!-- 社交媒体徽章 -->
-<!-- Public contact links -->
-<p>
-  <a href="https://github.com/suxinghang"><img src="https://img.shields.io/badge/GitHub-suxinghang-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<!-- Dragon Ball power-up animations -->
+<p align="center">
+  <a href="https://giphy.com/gifs/goku-WN16kBTKVAEuI">
+    <img src="https://media.giphy.com/media/WN16kBTKVAEuI/giphy.gif" alt="Goku power-up" width="31%" />
+  </a>
+  <a href="https://giphy.com/gifs/bandainamco-dragon-ball-z-sparking-zero-CVrPwH916t3ASL0Ff1">
+    <img src="https://media.giphy.com/media/CVrPwH916t3ASL0Ff1/giphy.gif" alt="Goku and Vegeta battle" width="31%" />
+  </a>
+  <a href="https://giphy.com/gifs/vegeta-vegetasmile-vegetagrin-Xd7UgTIKayHoMnu9zR">
+    <img src="https://media.giphy.com/media/Xd7UgTIKayHoMnu9zR/giphy.gif" alt="Vegeta power" width="31%" />
+  </a>
 </p>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=suxinghang.suxinghang&left_color=%2300D9FF&right_color=%230099FF"/>
+<!-- 社交媒体徽章 -->
+<!-- Public contact links -->
+<p align="center">
+  <a href="https://github.com/suxinghang"><img src="https://img.shields.io/badge/GitHub-suxinghang-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/suxinghang?tab=followers"><img src="https://img.shields.io/github/followers/suxinghang?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=8B5CF6" alt="GitHub followers" /></a>
+  <a href="https://github.com/suxinghang/suxinghang/stargazers"><img src="https://img.shields.io/github/stars/suxinghang/suxinghang?style=for-the-badge&logo=github&logoColor=white&label=PROFILE%20STARS&color=F59E0B" alt="Profile repository stars" /></a>
+  <img src="https://img.shields.io/github/last-commit/suxinghang/suxinghang?style=for-the-badge&logo=git&logoColor=white&label=LAST%20COMMIT&color=06B6D4" alt="Last commit" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=suxinghang.suxinghang&left_color=%2300D9FF&right_color=%230099FF" alt="Profile views" />
+</p>
 
 </div>
 
