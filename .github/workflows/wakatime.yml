@@ -1,0 +1,32 @@
+name: WakaTime
+
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+  push:
+    branches: ["master", "main"]
+
+jobs:
+  wakatime:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: wakatime.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: commit
+          committer_branch: main
+
+          user: suxinghang
+          base: ""
+
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, languages
+          plugin_wakatime_url: https://wakatime.com
+          # Change this if your WakaTime username is different from suxinghang.
+          plugin_wakatime_user: suxinghang
