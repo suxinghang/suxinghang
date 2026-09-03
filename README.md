@@ -36,7 +36,7 @@ I'm **xingkongmix**, a developer who enjoys turning rough ideas into practical, 
 ### ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,vue,react,js,ts,nodejs,python,go,mysql,redis,git,docker,linux&perline=7" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,vue,react,js,ts,nodejs,python,go,mysql,redis,git,docker,linux&perline=14" alt="Tech stack icons" width="100%" />
 </p>
 
 <table align="center">
