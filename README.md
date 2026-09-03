@@ -21,24 +21,15 @@
 
 ### About Me
 
-```javascript
-const developer = {
-  name: "xingkongmix",
-  role: "Developer",
-  location: "earth",
-  status: "Building and learning",
+> **Developer · Builder · Lifelong learner**
 
-  skills: {
-    // Current technology stack
-    mobile: ["Flutter", "React Native"],
-    frontend: ["Vue3", "React", "TypeScript"],
-    backend: ["Node.js", "Python", "Go"],
-    tools: ["Git", "Docker", "Linux"]
-  },
+I'm **xingkongmix**, a developer who enjoys turning rough ideas into practical, well-crafted software. I like exploring across mobile, frontend, and backend development while improving one project at a time.
 
-  motto: "keep real, keep cool!"
-};
-```
+- 🧭 **Focus:** Mobile, frontend, and backend development
+- 🧰 **Stack:** Flutter · React · Vue 3 · TypeScript · Node.js · Python · Go
+- 🛠️ **Tools:** Git · Docker · Linux
+- 🌱 **Current mode:** Building, learning, and shipping small improvements
+- ⚡ **Motto:** *Keep real, keep cool.*
 
 ---
 
