@@ -1,10 +1,15 @@
-name: Metrics
+# GitHub Metrics 数据面板（可选）
+# 使用前需要：
+# 1. 创建 Classic Token（必须是 ghp_ 开头的 Classic Token，不能用 Fine-grained）
+# 2. 在仓库 Settings → Secrets → Actions 添加 METRICS_TOKEN
+# 3. The workflow is configured for the suxinghang account.
+# 4. 如果使用 WakaTime，还需要配置 plugin_wakatime_user
 
+name: Metrics
 on:
-  schedule: [{ cron: "0 0 * * *" }]
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
-  push:
-    branches: ["master", "main"]
+  push: {branches: ["master", "main"]}
 
 jobs:
   github-metrics:
@@ -16,29 +21,40 @@ jobs:
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          output_action: commit
+          committer_branch: main
 
           user: suxinghang
+
+          # ========== 基础配置 ==========
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           config_padding: 6%
           optimize: svg
           experimental_features: --optimize-svg
-          output_action: commit
-          committer_branch: main
 
-          # Isometric contribution calendar
+          # ========== 插件配置 ==========
+
+          # 3D 贡献日历
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # Language statistics
+          # 语言分析
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 6
 
-          # Lines of code statistics
+          # 代码行数
           plugin_lines: yes
 
-          # Stargazers trend chart
+          # Star 趋势
           plugin_stargazers: yes
           plugin_stargazers_charts_type: chartist
+
+          # WakaTime is disabled until a real WakaTime username is provided.
+          # plugin_wakatime: yes
+          # plugin_wakatime_days: 7
+          # plugin_wakatime_limit: 4
+          # plugin_wakatime_sections: time, languages
+          # plugin_wakatime_url: https://wakatime.com
