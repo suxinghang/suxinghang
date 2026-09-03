@@ -21,15 +21,9 @@
 
 ### About Me
 
-> **Developer · Builder · Lifelong learner**
+> **Code explorer · Product builder · Always shipping**
 
-I'm **xingkongmix**, a developer who enjoys turning rough ideas into practical, well-crafted software. I like exploring across mobile, frontend, and backend development while improving one project at a time.
-
-- 🧭 **Focus:** Mobile, frontend, and backend development
-- 🧰 **Stack:** Flutter · React · Vue 3 · TypeScript · Node.js · Python · Go
-- 🛠️ **Tools:** Git · Docker · Linux
-- 🌱 **Current mode:** Building, learning, and shipping small improvements
-- ⚡ **Motto:** *Keep real, keep cool.*
+I'm **xingkongmix** — a cross-stack developer turning sparks of curiosity into software that feels sharp, useful, and alive. I move between mobile experiences, modern frontends, and dependable backends, chasing the sweet spot where clean engineering meets creative ideas. Build boldly, learn constantly, and ship something better than yesterday.
 
 ---
 
