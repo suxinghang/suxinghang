@@ -99,8 +99,8 @@
   <a href="https://giphy.com/gifs/bandainamco-dragon-ball-z-sparking-zero-CVrPwH916t3ASL0Ff1">
     <img src="https://media.giphy.com/media/CVrPwH916t3ASL0Ff1/giphy.gif" alt="Goku and Vegeta battle" width="46%" height="270" />
   </a>
-  <a href="https://giphy.com/gifs/vegeta-vegetasmile-vegetagrin-Xd7UgTIKayHoMnu9zR">
-    <img src="https://media.giphy.com/media/Xd7UgTIKayHoMnu9zR/giphy.gif" alt="Vegeta power" width="46%" height="270" />
+  <a href="https://giphy.com/gifs/funimation-goku-dragon-ball-SPuyENBLQCFCU">
+    <img src="https://media.giphy.com/media/SPuyENBLQCFCU/giphy.gif" alt="Goku power" width="46%" height="270" />
   </a>
 </p>
 
