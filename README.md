@@ -2,12 +2,12 @@
 
 <!-- 动态波浪banner -->
 <!-- Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=180&section=header&text=WinStar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Keep%20real%2C%20keep%20cool%21%21%21&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=180&section=header&text=WinStar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%E6%98%9F%E3%81%AF%E3%80%81%E5%A4%9C%E3%81%8C%E6%B7%B1%E3%81%84%E3%81%BB%E3%81%A9%E8%BC%9D%E3%81%8F%E3%80%82&descSize=18&descAlignY=55"/>
 
 <!-- 打字动画 -->
 <!-- 在线编辑器：https://readme-typing-svg.demolab.com/demo/ -->
 <!-- Each line is separated by ; -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Hi%2C+I'm+Winston;aka+WinStar;Developer+%26+Builder;Keep+real%2C+keep+cool%21)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Hi%2C+I'm+Winston;aka+WinStar;Developer+%26+Builder;%E6%98%9F%E3%81%AF%E3%80%81%E5%A4%9C%E3%81%8C%E6%B7%B1%E3%81%84%E3%81%BB%E3%81%A9%E8%BC%9D%E3%81%8F%E3%80%82)](https://git.io/typing-svg)
 
 <!-- WinStar Dragon Ball cosmic animation -->
 <p align="center">
@@ -108,7 +108,7 @@
 
 <div align="center">
 
-**⚡ Keep building. Keep evolving.**
+**⚡ 星は、夜が深いほど輝く。**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=100&section=footer"/>
 
