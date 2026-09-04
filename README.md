@@ -2,17 +2,23 @@
 
 <!-- 动态波浪banner -->
 <!-- Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=180&section=header&text=xingkongmix&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Keep%20real%2C%20keep%20cool%21%21%21&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=180&section=header&text=WinStar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Keep%20real%2C%20keep%20cool%21%21%21&descSize=18&descAlignY=55"/>
 
 <!-- 打字动画 -->
 <!-- 在线编辑器：https://readme-typing-svg.demolab.com/demo/ -->
 <!-- Each line is separated by ; -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Hi%2C+I'm+xingkongmix;Developer+%26+Builder;Keep+real%2C+keep+cool%21)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Hi%2C+I'm+Winston;aka+WinStar;Developer+%26+Builder;Keep+real%2C+keep+cool%21)](https://git.io/typing-svg)
 
-<!-- Main Dragon Ball power-up animation -->
+<!-- WinStar cosmic animations -->
 <p align="center">
-  <a href="https://giphy.com/gifs/goku-WN16kBTKVAEuI">
-    <img src="https://media.giphy.com/media/WN16kBTKVAEuI/giphy.gif" alt="Goku power-up" width="62%" />
+  <a href="https://tenor.com/pt-BR/view/yp%C3%AA-space-stars-art-gif-16733852">
+    <img src="https://media1.tenor.com/m/GJflj4CQvSMAAAAC/yp%C3%AA-space.gif" alt="WinStar shooting stars" width="31%" />
+  </a>
+  <a href="https://giphy.com/gifs/animation-space-starfield-6dKRKMubZffyg">
+    <img src="https://media3.giphy.com/media/6dKRKMubZffyg/giphy.gif" alt="WinStar starfield" width="31%" />
+  </a>
+  <a href="https://giphy.com/explore/sparkling-star">
+    <img src="https://media2.giphy.com/media/ymFEwrPPbpS7Eq59Si/giphy.gif" alt="WinStar sparkling stars" width="31%" />
   </a>
 </p>
 
