@@ -9,16 +9,10 @@
 <!-- Each line is separated by ; -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Hi%2C+I'm+Winston;aka+WinStar;Developer+%26+Builder;Keep+real%2C+keep+cool%21)](https://git.io/typing-svg)
 
-<!-- WinStar cosmic animations -->
+<!-- WinStar Dragon Ball cosmic animation -->
 <p align="center">
-  <a href="https://tenor.com/pt-BR/view/yp%C3%AA-space-stars-art-gif-16733852">
-    <img src="https://media1.tenor.com/m/GJflj4CQvSMAAAAC/yp%C3%AA-space.gif" alt="WinStar shooting stars" width="31%" />
-  </a>
-  <a href="https://giphy.com/gifs/animation-space-starfield-6dKRKMubZffyg">
-    <img src="https://media3.giphy.com/media/6dKRKMubZffyg/giphy.gif" alt="WinStar starfield" width="31%" />
-  </a>
-  <a href="https://giphy.com/explore/sparkling-star">
-    <img src="https://media2.giphy.com/media/ymFEwrPPbpS7Eq59Si/giphy.gif" alt="WinStar sparkling stars" width="31%" />
+  <a href="https://japoncinema.com/dire-bonjour-en-japonais/">
+    <img src="https://cdn.shopify.com/s/files/1/0039/8668/6063/products/sweat-goku-genkidama-4172263850095_600x.gif?v=1561533700" alt="Goku Spirit Bomb under a starry sky" width="62%" />
   </a>
 </p>
 
