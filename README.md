@@ -25,11 +25,17 @@
   <img src="https://img.shields.io/github/last-commit/suxinghang/suxinghang?style=for-the-badge&logo=git&logoColor=white&label=LAST%20COMMIT&color=06B6D4" alt="Last commit" />
 </p>
 
+</div>
+
+### ✨ Daily Inspiration
+
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=suxinghang.suxinghang&left_color=%2300D9FF&right_color=%230099FF" alt="Profile views" />
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" width="70%" />
+  </a>
 </p>
 
-</div>
+---
 
 ### ⚡ Tech Stack
 
@@ -115,6 +121,14 @@
   <a href="https://giphy.com/gifs/crayon-shinchan-shin-chan-icIr8rk03xQI6NS67S">
     <img src="https://media.giphy.com/media/icIr8rk03xQI6NS67S/giphy.gif" alt="Shinnosuke Nohara happy jump" width="46%" height="270" />
   </a>
+</p>
+
+---
+
+### 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://api.moedog.org/count/@suxinghang.readme" alt="Profile Visitor Counter" />
 </p>
 
 ---
