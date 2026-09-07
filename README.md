@@ -125,11 +125,10 @@
 
 ---
 
-### 🌌 Profile Signal
+### 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suxinghang&label=PROFILE%20VIEWS&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/WINSTAR-TOKYO-24283b?style=for-the-badge&logo=github&logoColor=bb9af7&labelColor=1a1b26" alt="WinStar Tokyo Night" />
+  <img src="https://api.moedog.org/count/@suxinghang.readme" alt="Profile Visitor Counter" />
 </p>
 
 ---
