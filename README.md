@@ -112,8 +112,8 @@
   <a href="https://giphy.com/gifs/crayon-shinchan-shin-chan-U5DNSiHo21pvuJEXye">
     <img src="https://media.giphy.com/media/U5DNSiHo21pvuJEXye/giphy.gif" alt="Shinnosuke Nohara reaction" width="46%" height="270" />
   </a>
-  <a href="https://giphy.com/gifs/crayon-shinchan-shin-chan-S6wqh8AYhTLRiBP04Y">
-    <img src="https://media.giphy.com/media/S6wqh8AYhTLRiBP04Y/giphy.gif" alt="Shinnosuke Nohara angry" width="46%" height="270" />
+  <a href="https://giphy.com/gifs/crayon-shinchan-shin-chan-icIr8rk03xQI6NS67S">
+    <img src="https://media.giphy.com/media/icIr8rk03xQI6NS67S/giphy.gif" alt="Shinnosuke Nohara happy jump" width="46%" height="270" />
   </a>
 </p>
 
