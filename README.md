@@ -27,13 +27,15 @@
 
 </div>
 
-### 🌱 Meaning of Life
+### ✨ Daily Inspiration
 
-<p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" width="70%" />
-  </a>
-</p>
+<div align="center">
+
+> **A meaningful life is not found — it is built, one intentional day at a time.**
+>
+> *Live deliberately. Stay curious. Keep moving forward.*
+
+</div>
 
 ---
 
