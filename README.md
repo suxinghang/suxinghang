@@ -104,6 +104,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://giphy.com/gifs/crayon-shinchan-shin-chan-WUJ68e3mt8CS9LdZvQ">
+    <img src="https://media.giphy.com/media/WUJ68e3mt8CS9LdZvQ/giphy.gif" alt="Crayon Shin-chan running" width="46%" height="270" />
+  </a>
+  <a href="https://giphy.com/gifs/crayon-shinchan-shin-chan-icIr8rk03xQI6NS67S">
+    <img src="https://media.giphy.com/media/icIr8rk03xQI6NS67S/giphy.gif" alt="Crayon Shin-chan happy jump" width="46%" height="270" />
+  </a>
+</p>
+
 ---
 
 <div align="center">
