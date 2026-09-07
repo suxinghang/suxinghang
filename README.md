@@ -5,19 +5,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=180&section=header&text=WinStar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%E6%98%9F%E3%81%AF%E3%80%81%E5%A4%9C%E3%81%8C%E6%B7%B1%E3%81%84%E3%81%BB%E3%81%A9%E8%BC%9D%E3%81%8F%E3%80%82&descSize=18&descAlignY=55"/>
 
 <!-- 打字动画 -->
-<!-- 在线编辑器：https://readme-typing-svg.demolab.com/demo/ -->
-<!-- Each line is separated by ; -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Hi%2C+I'm+Winston;aka+WinStar;Developer+%26+Builder;%E6%98%9F%E3%81%AF%E3%80%81%E5%A4%9C%E3%81%8C%E6%B7%B1%E3%81%84%E3%81%BB%E3%81%A9%E8%BC%9D%E3%81%8F%E3%80%82)](https://git.io/typing-svg)
 
-<!-- WinStar Dragon Ball cosmic animation -->
 <p align="center">
   <a href="https://japoncinema.com/dire-bonjour-en-japonais/">
     <img src="https://cdn.shopify.com/s/files/1/0039/8668/6063/products/sweat-goku-genkidama-4172263850095_600x.gif?v=1561533700" alt="Goku Spirit Bomb under a starry sky" width="62%" />
   </a>
 </p>
 
-<!-- 社交媒体徽章 -->
-<!-- Public contact links -->
 <p align="center">
   <a href="https://github.com/suxinghang"><img src="https://img.shields.io/badge/GitHub-suxinghang-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/suxinghang?tab=followers"><img src="https://img.shields.io/github/followers/suxinghang?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=8B5CF6" alt="GitHub followers" /></a>
@@ -25,9 +20,7 @@
   <img src="https://img.shields.io/github/last-commit/suxinghang/suxinghang?style=for-the-badge&logo=git&logoColor=white&label=LAST%20COMMIT&color=06B6D4" alt="Last commit" />
 </p>
 
-</div>
-
-### ✨ Daily Inspiration
+<h3 align="center">✨ Daily Inspiration</h3>
 
 <table width="100%">
   <tr>
@@ -41,7 +34,7 @@
 
 ---
 
-### ⚡ Tech Stack
+<h3 align="center">⚡ Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,vue,react,js,ts,nodejs,python,go,mysql,redis,git,docker,linux&perline=14" alt="Tech stack icons" width="100%" />
@@ -49,27 +42,25 @@
 
 ---
 
-### 🚀 Featured Projects
+<h3 align="center">🚀 Featured Projects</h3>
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4 align="center">🌌 Personal Website</h4>
       <p align="center">
         <a href="https://github.com/suxinghang/suxinghang.github.io">
           <img src="https://img.shields.io/badge/EXPLORE-Personal_Website-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Personal website repository" />
-        </a>
-        <br />
+        </a><br />
         <sub>GitHub Pages template for an academic personal website.</sub>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4 align="center">⚡ Profile Interface</h4>
       <p align="center">
         <a href="https://github.com/suxinghang/suxinghang">
           <img src="https://img.shields.io/badge/EXPLORE-Profile_README-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Profile README repository" />
-        </a>
-        <br />
+        </a><br />
         <sub>Animated developer profile with a Dragon Ball-inspired visual identity.</sub>
       </p>
     </td>
@@ -78,9 +69,9 @@
 
 ---
 
-### 📊 GitHub Telemetry
+<h3 align="center">📊 GitHub Telemetry</h3>
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suxinghang&theme=tokyonight" alt="GitHub statistics" width="100%" />
@@ -90,7 +81,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" width="100%">
+    <td colspan="2" align="center">
       <img src="https://streak-stats.demolab.com?user=suxinghang&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="100%" />
     </td>
   </tr>
@@ -98,56 +89,46 @@
 
 ---
 
-### 🐍 Contribution Snake
+<h3 align="center">🐍 Contribution Snake</h3>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suxinghang/suxinghang/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suxinghang/suxinghang/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/suxinghang/suxinghang/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/suxinghang/suxinghang/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
 ---
 
-### 🐉 Saiyan Arena
+<h3 align="center">🐉 Saiyan Arena</h3>
 
 <p align="center">
-  <a href="https://giphy.com/gifs/bandainamco-dragon-ball-z-sparking-zero-CVrPwH916t3ASL0Ff1">
-    <img src="https://media.giphy.com/media/CVrPwH916t3ASL0Ff1/giphy.gif" alt="Goku and Vegeta battle" width="46%" height="270" />
-  </a>
-  <a href="https://giphy.com/gifs/funimation-goku-dragon-ball-SPuyENBLQCFCU">
-    <img src="https://media.giphy.com/media/SPuyENBLQCFCU/giphy.gif" alt="Goku power" width="46%" height="270" />
-  </a>
+  <a href="https://giphy.com/gifs/bandainamco-dragon-ball-z-sparking-zero-CVrPwH916t3ASL0Ff1"><img src="https://media.giphy.com/media/CVrPwH916t3ASL0Ff1/giphy.gif" alt="Goku and Vegeta battle" width="46%" height="270" /></a>
+  <a href="https://giphy.com/gifs/funimation-goku-dragon-ball-SPuyENBLQCFCU"><img src="https://media.giphy.com/media/SPuyENBLQCFCU/giphy.gif" alt="Goku power" width="46%" height="270" /></a>
 </p>
 
 ---
 
-### 🖍️ Crayon Shin-chan
+<h3 align="center">🖍️ Crayon Shin-chan</h3>
 
 <p align="center">
-  <a href="https://giphy.com/gifs/crayon-shinchan-shin-chan-U5DNSiHo21pvuJEXye">
-    <img src="https://media.giphy.com/media/U5DNSiHo21pvuJEXye/giphy.gif" alt="Shinnosuke Nohara reaction" width="46%" height="270" />
-  </a>
-  <a href="https://giphy.com/gifs/crayon-shinchan-shin-chan-icIr8rk03xQI6NS67S">
-    <img src="https://media.giphy.com/media/icIr8rk03xQI6NS67S/giphy.gif" alt="Shinnosuke Nohara happy jump" width="46%" height="270" />
-  </a>
+  <a href="https://giphy.com/gifs/crayon-shinchan-shin-chan-U5DNSiHo21pvuJEXye"><img src="https://media.giphy.com/media/U5DNSiHo21pvuJEXye/giphy.gif" alt="Shinnosuke Nohara reaction" width="46%" height="270" /></a>
+  <a href="https://giphy.com/gifs/crayon-shinchan-shin-chan-icIr8rk03xQI6NS67S"><img src="https://media.giphy.com/media/icIr8rk03xQI6NS67S/giphy.gif" alt="Shinnosuke Nohara happy jump" width="46%" height="270" /></a>
 </p>
 
 ---
 
-### 👀 Profile Visitors
+<h3 align="center">👀 Profile Visitors</h3>
 
 <p align="center">
-  <img src="https://api.moedog.org/count/@suxinghang.readme" alt="Profile Visitor Counter" width="150%" />
+  <img src="https://api.moedog.org/count/@suxinghang.readme" alt="Profile Visitor Counter" />
 </p>
 
 ---
-
-<div align="center">
 
 **⚡ 星は、夜が深いほど輝く。**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=100&section=footer" width="100%"/>
 
 </div>
