@@ -128,7 +128,7 @@
 ### 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://api.moedog.org/count/@suxinghang.readme" alt="Profile Visitor Counter" />
+  <img src="https://api.moedog.org/count/@suxinghang.readme" alt="Profile Visitor Counter" width="150%" />
 </p>
 
 ---
