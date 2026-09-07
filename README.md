@@ -29,13 +29,15 @@
 
 ### ✨ Daily Inspiration
 
-<div align="center">
-
-> **A meaningful life is not found — it is built, one intentional day at a time.**
->
-> *Live deliberately. Stay curious. Keep moving forward.*
-
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="100%">
+      <strong>A meaningful life is not found — it is built, one intentional day at a time.</strong>
+      <br /><br />
+      <em>Live deliberately. Stay curious. Keep moving forward.</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -49,7 +51,7 @@
 
 ### 🚀 Featured Projects
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4 align="center">🌌 Personal Website</h4>
@@ -78,14 +80,21 @@
 
 ### 📊 GitHub Telemetry
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suxinghang&theme=tokyonight" alt="GitHub statistics" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suxinghang&theme=tokyonight" alt="Repositories by language" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=suxinghang&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="65%" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suxinghang&theme=tokyonight" alt="GitHub statistics" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suxinghang&theme=tokyonight" alt="Repositories by language" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" width="100%">
+      <img src="https://streak-stats.demolab.com?user=suxinghang&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
