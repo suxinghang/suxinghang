@@ -27,7 +27,7 @@
 
 </div>
 
-### ✨ Daily Inspiration
+### 🌱 Meaning of Life
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
